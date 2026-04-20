@@ -1,0 +1,9 @@
+pretty_midi
+numpy
+torch
+matplotlib
+tqdm
+miditok==2.1.8
+datasets
+transformers
+tensorboard
